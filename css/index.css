@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to right, #3a9980, #009aa5, #0096c9, #378bdb, #9576d1);
+}
+#glass{
+    backdrop-filter: blur(8px);
+  background-color: rgba(178,60,253,0.4);
+}
