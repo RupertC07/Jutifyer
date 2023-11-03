@@ -5,5 +5,5 @@ body{
 }
 #glass{
     backdrop-filter: blur(8px);
-  background-color: rgba(178,60,253,0.4);
+   background-color: rgba(135, 206, 235, 0.4);
 }
