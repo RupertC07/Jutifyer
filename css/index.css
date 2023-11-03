@@ -1,7 +1,5 @@
 body{
-background-image: linear-gradient(to right top, #051937, #133a62, #1b5f8f, #1c88bd, #12b3eb);
-background-size: cover;
-height: 100vh;
+background-image: linear-gradient(to bottom, #9deaff, #82ddf9, #66cff4, #46c1f0, #12b3eb);
 }
 #glass{
     backdrop-filter: blur(8px);
