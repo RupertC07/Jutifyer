@@ -1,5 +1,6 @@
 body{
-background-image: linear-gradient(to bottom, #9deaff, #82ddf9, #66cff4, #46c1f0, #12b3eb);
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,116,0.6979166666666667) 2%, rgba(0,212,255,1) 41%);
     background-repeat: no-repeat;
   background-size: fit;
     height: 100vh;
